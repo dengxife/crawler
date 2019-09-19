@@ -10,6 +10,8 @@
 **计算机网络基础**
 
 1. [网络协议](docs/tcp-ip.md)
+2. socket编程基础
+3. [http协议](docs/http.md)
 
 前端基础知识
 
